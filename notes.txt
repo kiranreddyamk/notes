@@ -4,3 +4,6 @@
 
 delete node_module (rm -rf node_modules via git bash)
 npm install ---> will get back all node_modules
+
+
+console.(process.argv)  ---------> prints all args same as public static void main(args)
