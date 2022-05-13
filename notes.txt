@@ -1,3 +1,6 @@
 "start" : "node index.js",       ---------->  npm start
 "kiran" : "ls",                  ---------->  npm run kiran
 "kk"    : "ls"		               ---------->  npm kk
+
+delete node_module (rm -rf node_modules via git bash)
+npm install ---> will get back all node_modules
