@@ -2,6 +2,9 @@ node -v
 Current version will be displayed
 
 npx create-react-app kiran-app
+wait
+cd kiran-app
+npm start
 
 
 
