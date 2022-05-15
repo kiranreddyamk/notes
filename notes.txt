@@ -1,3 +1,12 @@
+node -v    
+Current version will be displayed
+
+npx create-react-app kiran-app
+
+
+
+
+
 "start" : "node index.js",       ---------->  npm start
 "kiran" : "ls",                  ---------->  npm run kiran
 "kk"    : "ls"		               ---------->  npm kk
