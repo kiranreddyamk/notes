@@ -33,4 +33,4 @@ prcess.exit(1) -------------> same as system.exit(1)
 
 
 Mobile finger touch 
-Google Material Design vs Apple Human Interface Guidelines
+Google Material Design Principle vs Apple Human Interface Guidelines
