@@ -24,3 +24,7 @@ npm install ---> will get back all node_modules
 
 console.(process.argv)  ---------> prints all args same as public static void main(args)
 prcess.exit(1) -------------> same as system.exit(1)
+
+
+Mobile finger touch 
+Google Material Design vs Apple Human Interface Guidelines
