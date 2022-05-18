@@ -11,8 +11,14 @@ CSS
 2. Material UI (Mostly used one in industry)
 
 https://www.w3schools.com/bootstrap/bootstrap_buttons.asp
-
-
+-----------------------------
+DAO IMPL functions:
+insertOne()
+updateOne()
+findOne()
+deleteOne()
+find({}) - Find All
+-----------------------------
 
 "start" : "node index.js",       ---------->  npm start
 "kiran" : "ls",                  ---------->  npm run kiran
